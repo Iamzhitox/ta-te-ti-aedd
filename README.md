@@ -11,4 +11,4 @@ Jugá con un amigo o con la misma máquina!
 1. Cloná el repositorio en tu máquina usando el siguiente comando:
 
 ```bash
-git clone [https://github.com/iamzhitox/ta-te-ti-aedd.git](https://github.com/Iamzhitox/ta-te-ti-aedd.git)https://github.com/Iamzhitox/ta-te-ti-aedd.git
+git clone https://github.com/Iamzhitox/ta-te-ti-aedd.git
