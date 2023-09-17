@@ -1,6 +1,10 @@
-# Juego de Ta-Te-Ti en C++
+# Ta-Te-Ti en C++
 
-Este es un proyecto simple que implementa el clásico juego de tres en línea en C++. 
+El clásico ta-te-ti, tic-tac-toe, tres en raya/linea pero en C++.
+
+Jugá con un amigo o con la misma máquina!
+
+(Este proyecto se ejecuta en una terminal)
 
 ## Instrucciones de Instalación
 
