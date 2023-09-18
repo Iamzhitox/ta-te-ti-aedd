@@ -1,6 +1,6 @@
 # Ta-Te-Ti en C++
 
-El clásico ta-te-ti, tic-tac-toe, tres en raya/linea pero en C++.
+El clásico ta-te-ti pero en C++.
 
 Jugá con un amigo o con la misma máquina!
 
@@ -8,7 +8,13 @@ Jugá con un amigo o con la misma máquina!
 
 ## Instrucciones de Instalación
 
-1. Cloná el repositorio en tu máquina usando el siguiente comando:
+Cloná el repositorio en tu máquina usando el siguiente comando:
 
 ```bash
 git clone https://github.com/Iamzhitox/ta-te-ti-aedd.git
+```
+
+O también podés descargarlo por acá 
+[Descargar Ta-Te-Ti](tateti.cpp) y jugarlo directamente.
+
+
