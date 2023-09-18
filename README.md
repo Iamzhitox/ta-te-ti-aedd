@@ -14,7 +14,6 @@ Cloná el repositorio en tu máquina usando el siguiente comando:
 git clone https://github.com/Iamzhitox/ta-te-ti-aedd.git
 ```
 
-O también podés descargarlo por acá 
-[Descargar Ta-Te-Ti](tateti.cpp) y jugarlo directamente.
+O también podés descargarlo por acá: <a href="tateti.exe" download>Descargar Ta-Te-Ti</a>, y jugarlo directamente.
 
 
